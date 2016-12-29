@@ -1,0 +1,5 @@
+C:\Work\SCM\Learning\MSBUILD\1_CustomTask\DLL\Custom_Task\Custom_Task\bin\Debug\Custom_Task.dll
+C:\Work\SCM\Learning\MSBUILD\1_CustomTask\DLL\Custom_Task\Custom_Task\bin\Debug\Custom_Task.pdb
+C:\Work\SCM\Learning\MSBUILD\1_CustomTask\DLL\Custom_Task\Custom_Task\obj\Debug\Custom_Task.csprojResolveAssemblyReference.cache
+C:\Work\SCM\Learning\MSBUILD\1_CustomTask\DLL\Custom_Task\Custom_Task\obj\Debug\Custom_Task.dll
+C:\Work\SCM\Learning\MSBUILD\1_CustomTask\DLL\Custom_Task\Custom_Task\obj\Debug\Custom_Task.pdb
